@@ -1,1 +1,1 @@
-# frontend-using-tailwind-css
+# practice-frontend-css
